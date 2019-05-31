@@ -147,11 +147,11 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(12, 312);
+            this.button1.Location = new System.Drawing.Point(12, 297);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(383, 48);
+            this.button1.Size = new System.Drawing.Size(383, 61);
             this.button1.TabIndex = 15;
-            this.button1.Text = "Visualizar opiniões sobre o Projeto.";
+            this.button1.Text = "Informações de contato e opiniões sobre o Projeto.";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 

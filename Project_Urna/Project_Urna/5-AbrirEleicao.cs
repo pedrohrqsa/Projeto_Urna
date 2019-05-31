@@ -26,7 +26,7 @@ namespace Project_Urna
         {
             //Abre o formulário de apuração.
             Form FrmApuracao = new FrmApuracao();
-            FrmApuracao.ShowDialog();
+           FrmApuracao.ShowDialog();
         }
         private void btnSair_Click(object sender, EventArgs e)
         {
