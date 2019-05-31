@@ -1,0 +1,10 @@
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\bin\x86\Debug\Project_Urna.exe.config
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\bin\x86\Debug\Project_Urna.exe
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\bin\x86\Debug\Project_Urna.pdb
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\obj\x86\Debug\Project_Urna.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\obj\x86\Debug\Project_Urna.FrmUrna.resources
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\obj\x86\Debug\Project_Urna.FrmVota.resources
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\obj\x86\Debug\Project_Urna.Properties.Resources.resources
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\obj\x86\Debug\Project_Urna.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\obj\x86\Debug\Project_Urna.exe
+C:\Users\pedro_000\Documents\Projeto_Urna\Project_Urna\Project_Urna\obj\x86\Debug\Project_Urna.pdb
